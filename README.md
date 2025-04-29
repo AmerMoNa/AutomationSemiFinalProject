@@ -119,7 +119,7 @@ Amer Mohammad Nawasreh
 
 💼 QA Engineer | Test Automation Enthusiast
 
-🔗 LinkedIn Profile
+[🔗 Amer Mohammad Nawasreh - LinkedIn](https://www.linkedin.com/in/amer-nawasreh-4b0785354)
 
 📧 Email: amnawasreh2@gmail.com
 
