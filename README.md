@@ -25,7 +25,9 @@ Designed to simulate real-world user behaviors like clicking, form-filling, wind
 🛠️ Built With
 
 Technology	Version	Purpose
+
 Java	11+	Core Programming
+
 Selenium WebDriver	4.x	Browser Automation
 TestNG	7.x	Test Framework
 Eclipse IDE 2024	Latest	Development Environment
