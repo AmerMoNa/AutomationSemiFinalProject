@@ -1,5 +1,6 @@
 🚀 AutomationSimiFinalProject
 
+
 📋 Table of Contents
 About the Project
 
@@ -15,12 +16,17 @@ Author
 
 License
 
+
 📖 About the Project
+
 AutomationSimiFinalProject is an advanced Selenium WebDriver automation suite written in Java, leveraging TestNG for test management.
+
 It automates interactions on the practice website:
+
 🔗 https://codenboxautomationlab.com/practice/
 
 Designed to simulate real-world user behaviors like clicking, form-filling, window handling, alert handling, iframe interactions, and more!
+
 
 🛠️ Built With
 
@@ -35,6 +41,7 @@ TestNG                  7.x             	Test Framework
 Eclipse IDE 2024        Latest	            Development Environment
 
 ChromeDriver            Latest	            WebDriver for Chrome
+
 
 🌟 Features
 
@@ -65,6 +72,7 @@ ChromeDriver            Latest	            WebDriver for Chrome
 ✅ Download Button Testing
 
 
+
 🚀 Getting Started
 
 Prerequisites
@@ -79,10 +87,10 @@ ChromeDriver installed and path configured
 
 Internet access to run automation against the live website
 
+
 🖥️ How to Run
 
 Clone this repository:
-
 
 git clone https://github.com/your-username/AutomationSimiFinalProject.git
 
@@ -101,6 +109,7 @@ Right-click the src/test/java folder
 Select Run As ➔ TestNG Test
 
 Choose the test(s) you want to execute.
+
 
 👤 Author
 
